@@ -18,16 +18,3 @@ python demo.py
 ## Arquivo de Video!
 
 python demo.py --video seuarquivo.avi
-
-### Conecte-se comigo:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=caioross&show_icons=true&hide_border=true" />
-
-
-[instagram]: https://instagram.com/kio1720
-[linkedin]: https://linkedin.com/in/caiorossi
